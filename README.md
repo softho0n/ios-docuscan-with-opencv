@@ -1,5 +1,6 @@
 # ios-docuscan-with-opencv
-<em>Simple iOS App for Document Scanning Using OpenCV Library</em>
+<em>Simple iOS App for Document Scanning Using OpenCV Library</em> 
+> OpenCV-Python에서 벗어나 OpenCV-C++ 학습 및 클라이언트 서비스(iOS) 상에서 OpenCV를 활용하는 법을 터득하기 위한 Toy Project임.
 
 
 ## 개발 환경
